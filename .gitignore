@@ -21,3 +21,11 @@ Thumbs.db
 # Логи
 *.log
 data/*
+preprocessed_data/*
+data_preprocess_step1/*
+rendering_understanding_prep_data/*
+output/*
+*.png
+*.jpg
+*.zip
+data_preprocess/*
