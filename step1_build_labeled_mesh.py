@@ -83,9 +83,8 @@ def main():
         sys.exit(1)
 
     assembly = sys.argv[1]
-    output = sys.argv[2]
     assembly_dir = Path("data") / assembly
-    output_dir = Path(output) / assembly
+    output_dir = Path("preprocessed_data") / assembly
     output_dir.mkdir(parents=True, exist_ok=True)
 
     data = json.loads((assembly_dir / "assembly.json").read_text())
