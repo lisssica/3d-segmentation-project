@@ -1,0 +1,14 @@
+{
+  "n_selected": 379,
+  "n_label_ok": 379,
+  "n_label_failed": 0,
+  "n_outer_failed": 0,
+  "args": {
+    "min_bodies": 2,
+    "max_bodies": 10,
+    "save_every": 1,
+    "tol": 0.01,
+    "limit": null
+  },
+  "timestamp": "2026-05-14 15:43:31"
+}

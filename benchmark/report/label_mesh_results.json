@@ -1,0 +1,104 @@
+{
+  "selection": {
+    "seed": 42,
+    "pinned": [
+      "7778_3a9748b3",
+      "16550_e88d6986"
+    ],
+    "random": [
+      "20429_419c4cdd",
+      "20429_9dd95c38",
+      "21665_2e14b6ff",
+      "21692_777db9e2",
+      "22313_3a8b93dc",
+      "22448_1f21757a",
+      "22824_65fa15ec",
+      "23155_d7305c5f"
+    ],
+    "all": [
+      "7778_3a9748b3",
+      "16550_e88d6986",
+      "20429_419c4cdd",
+      "20429_9dd95c38",
+      "21665_2e14b6ff",
+      "21692_777db9e2",
+      "22313_3a8b93dc",
+      "22448_1f21757a",
+      "22824_65fa15ec",
+      "23155_d7305c5f"
+    ],
+    "total_valid_in_data": 751
+  },
+  "label_mesh": {
+    "7778_3a9748b3": {
+      "status": "ok",
+      "t_label_mesh_sec": 0.8908793330047047,
+      "n_instances": 167,
+      "n_faces": 283814,
+      "n_vertices": 196332
+    },
+    "16550_e88d6986": {
+      "status": "ok",
+      "t_label_mesh_sec": 0.03384300001198426,
+      "n_instances": 2,
+      "n_faces": 8610,
+      "n_vertices": 8818
+    },
+    "20429_419c4cdd": {
+      "status": "ok",
+      "t_label_mesh_sec": 0.010282624993124045,
+      "n_instances": 1,
+      "n_faces": 3108,
+      "n_vertices": 1812
+    },
+    "20429_9dd95c38": {
+      "status": "ok",
+      "t_label_mesh_sec": 0.008740292003494687,
+      "n_instances": 1,
+      "n_faces": 2652,
+      "n_vertices": 1688
+    },
+    "21665_2e14b6ff": {
+      "status": "ok",
+      "t_label_mesh_sec": 0.021752875007223338,
+      "n_instances": 1,
+      "n_faces": 6982,
+      "n_vertices": 4133
+    },
+    "21692_777db9e2": {
+      "status": "ok",
+      "t_label_mesh_sec": 0.13181266699393746,
+      "n_instances": 5,
+      "n_faces": 42854,
+      "n_vertices": 24931
+    },
+    "22313_3a8b93dc": {
+      "status": "ok",
+      "t_label_mesh_sec": 0.00515224999981001,
+      "n_instances": 10,
+      "n_faces": 480,
+      "n_vertices": 744
+    },
+    "22448_1f21757a": {
+      "status": "ok",
+      "t_label_mesh_sec": 0.04346116600208916,
+      "n_instances": 11,
+      "n_faces": 12604,
+      "n_vertices": 10102
+    },
+    "22824_65fa15ec": {
+      "status": "ok",
+      "t_label_mesh_sec": 0.013603041996248066,
+      "n_instances": 12,
+      "n_faces": 2854,
+      "n_vertices": 2780
+    },
+    "23155_d7305c5f": {
+      "status": "ok",
+      "t_label_mesh_sec": 0.060047374994610436,
+      "n_instances": 17,
+      "n_faces": 17510,
+      "n_vertices": 14954
+    }
+  }
+}

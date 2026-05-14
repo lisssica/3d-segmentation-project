@@ -13,6 +13,7 @@ env/
 # Редакторы и система
 .vscode/
 .idea/
+.claude/
 *.swp
 *.swo
 .DS_Store
@@ -20,12 +21,27 @@ Thumbs.db
 
 # Логи
 *.log
+
+# Большие сырые данные и старые экспериментальные папки
 data/*
 preprocessed_data/*
 data_preprocess_step1/*
 rendering_understanding_prep_data/*
 output/*
-*.png
+data_preprocess/*
+
+# Корневые тестовые изображения / архивы
 *.jpg
 *.zip
-data_preprocess/*
+/*.png
+bolt.png
+
+# Легаси-выходы старых пайплайнов (бенчмарк, рендеры)
+benchmark/labeled_meshes/
+benchmark/outer_shells/
+benchmark/renders/
+benchmark/logs/
+benchmark/report/figures/samples/
+
+# НЕ исключаем PNG/data внутри benchmark/dataset/ и benchmark/data_stats/
+# (это и есть наш репо-датасет и распределения)

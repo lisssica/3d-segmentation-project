@@ -1,0 +1,50 @@
+{
+  "1": {
+    "occurrence_uuid": "dc17d67e-05fa-11ec-b265-02ef91e90f5f",
+    "body_uuid": "dc10aa8c-05fa-11ec-860a-02ef91e90f5f",
+    "name": "Back:1",
+    "component_name": "Back"
+  },
+  "2": {
+    "occurrence_uuid": "dc17fd8c-05fa-11ec-b911-02ef91e90f5f",
+    "body_uuid": "dc0d28d8-05fa-11ec-ae8b-02ef91e90f5f",
+    "name": "SideRails:1",
+    "component_name": "SideRails"
+  },
+  "3": {
+    "occurrence_uuid": "dc17fd8c-05fa-11ec-b911-02ef91e90f5f",
+    "body_uuid": "dc0e398c-05fa-11ec-8c4a-02ef91e90f5f",
+    "name": "SideRails:1",
+    "component_name": "SideRails"
+  },
+  "4": {
+    "occurrence_uuid": "dc18249a-05fa-11ec-88f0-02ef91e90f5f",
+    "body_uuid": "dc0efcde-05fa-11ec-8771-02ef91e90f5f",
+    "name": "BackLegs:1",
+    "component_name": "BackLegs"
+  },
+  "5": {
+    "occurrence_uuid": "dc18249a-05fa-11ec-88f0-02ef91e90f5f",
+    "body_uuid": "dc0f7212-05fa-11ec-ae90-02ef91e90f5f",
+    "name": "BackLegs:1",
+    "component_name": "BackLegs"
+  },
+  "6": {
+    "occurrence_uuid": "dc1872c0-05fa-11ec-9010-02ef91e90f5f",
+    "body_uuid": "dc164fdc-05fa-11ec-9778-02ef91e90f5f",
+    "name": "FrontRail:1",
+    "component_name": "FrontRail"
+  },
+  "7": {
+    "occurrence_uuid": "dc1899cc-05fa-11ec-b3bc-02ef91e90f5f",
+    "body_uuid": "dc1369ac-05fa-11ec-a4c0-02ef91e90f5f",
+    "name": "Seat:1",
+    "component_name": "Seat"
+  },
+  "8": {
+    "occurrence_uuid": "dc18c0dc-05fa-11ec-91d0-02ef91e90f5f",
+    "body_uuid": "dc0fe740-05fa-11ec-8a17-02ef91e90f5f",
+    "name": "RearRail:1",
+    "component_name": "RearRail"
+  }
+}

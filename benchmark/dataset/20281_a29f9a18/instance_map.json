@@ -1,0 +1,26 @@
+{
+  "1": {
+    "occurrence_uuid": "57411762-05ca-11ec-96bb-06f9a8846f7f",
+    "body_uuid": "5737efc2-05ca-11ec-bb3a-06f9a8846f7f",
+    "name": "handle:1",
+    "component_name": "handle"
+  },
+  "2": {
+    "occurrence_uuid": "57418c94-05ca-11ec-b822-06f9a8846f7f",
+    "body_uuid": "573e0a22-05ca-11ec-af34-06f9a8846f7f",
+    "name": "base:1",
+    "component_name": "base"
+  },
+  "3": {
+    "occurrence_uuid": "5741dab0-05ca-11ec-a06e-06f9a8846f7f",
+    "body_uuid": "57313968-05ca-11ec-ad96-06f9a8846f7f",
+    "name": "Latch:1",
+    "component_name": "Latch"
+  },
+  "4": {
+    "occurrence_uuid": "5742c510-05ca-11ec-8478-06f9a8846f7f",
+    "body_uuid": "57361b70-05ca-11ec-9d22-06f9a8846f7f",
+    "name": "Hook:1",
+    "component_name": "Hook"
+  }
+}

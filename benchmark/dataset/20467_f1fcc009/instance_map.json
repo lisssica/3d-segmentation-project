@@ -1,0 +1,38 @@
+{
+  "1": {
+    "occurrence_uuid": "root",
+    "body_uuid": "450b640a-05b1-11ec-9252-020a4e46e3ef",
+    "name": "root",
+    "component_name": "root"
+  },
+  "2": {
+    "occurrence_uuid": "root",
+    "body_uuid": "450c4e66-05b1-11ec-9c20-020a4e46e3ef",
+    "name": "root",
+    "component_name": "root"
+  },
+  "3": {
+    "occurrence_uuid": "root",
+    "body_uuid": "4511cca4-05b1-11ec-bc0a-020a4e46e3ef",
+    "name": "root",
+    "component_name": "root"
+  },
+  "4": {
+    "occurrence_uuid": "root",
+    "body_uuid": "45161262-05b1-11ec-b7c2-020a4e46e3ef",
+    "name": "root",
+    "component_name": "root"
+  },
+  "5": {
+    "occurrence_uuid": "root",
+    "body_uuid": "451a5828-05b1-11ec-94b1-020a4e46e3ef",
+    "name": "root",
+    "component_name": "root"
+  },
+  "6": {
+    "occurrence_uuid": "root",
+    "body_uuid": "451b4292-05b1-11ec-a377-020a4e46e3ef",
+    "name": "root",
+    "component_name": "root"
+  }
+}

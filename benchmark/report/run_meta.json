@@ -1,0 +1,17 @@
+{
+  "host": "Neonilas-MacBook-Air.local",
+  "platform": "macOS-15.7.4-arm64-arm-64bit-Mach-O",
+  "python": "3.14.3",
+  "img_size": 512,
+  "fov": 60,
+  "n_frames_per_assembly": 10,
+  "warmup_runs": 1,
+  "seed": 42,
+  "gl_info": {
+    "moderngl": "5.12.0",
+    "GL_VERSION": 410,
+    "GL_VENDOR": "Apple",
+    "GL_RENDERER": "Apple M4"
+  },
+  "timestamp": "2026-05-13 18:15:41"
+}

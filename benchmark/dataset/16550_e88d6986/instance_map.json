@@ -1,0 +1,14 @@
+{
+  "1": {
+    "occurrence_uuid": "root",
+    "body_uuid": "519d44dc-0573-11ec-8983-06368d9f66a5",
+    "name": "root",
+    "component_name": "root"
+  },
+  "2": {
+    "occurrence_uuid": "root",
+    "body_uuid": "51a00400-0573-11ec-9601-06368d9f66a5",
+    "name": "root",
+    "component_name": "root"
+  }
+}
